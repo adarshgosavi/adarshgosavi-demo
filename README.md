@@ -1,3 +1,3 @@
 # adarshgosavi-demo
-This is my First git Repository
+This is my First git Repository.
 Author - Adarsh Gosavi
